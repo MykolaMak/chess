@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/chess/static/css/main.bcebed1f.chunk.css",
-    "main.js": "/chess/static/js/main.6978ef05.chunk.js",
-    "main.js.map": "/chess/static/js/main.6978ef05.chunk.js.map",
+    "main.css": "/chess/static/css/main.cf264b3b.chunk.css",
+    "main.js": "/chess/static/js/main.d29e4521.chunk.js",
+    "main.js.map": "/chess/static/js/main.d29e4521.chunk.js.map",
     "runtime-main.js": "/chess/static/js/runtime-main.bff3f106.js",
     "runtime-main.js.map": "/chess/static/js/runtime-main.bff3f106.js.map",
     "static/js/2.7916e133.chunk.js": "/chess/static/js/2.7916e133.chunk.js",
     "static/js/2.7916e133.chunk.js.map": "/chess/static/js/2.7916e133.chunk.js.map",
     "index.html": "/chess/index.html",
-    "precache-manifest.eb4111c96190ad2451d32f2feb265ab0.js": "/chess/precache-manifest.eb4111c96190ad2451d32f2feb265ab0.js",
+    "precache-manifest.8b71706abc46d3097584522b6c46ccb3.js": "/chess/precache-manifest.8b71706abc46d3097584522b6c46ccb3.js",
     "service-worker.js": "/chess/service-worker.js",
-    "static/css/main.bcebed1f.chunk.css.map": "/chess/static/css/main.bcebed1f.chunk.css.map",
+    "static/css/main.cf264b3b.chunk.css.map": "/chess/static/css/main.cf264b3b.chunk.css.map",
     "static/js/2.7916e133.chunk.js.LICENSE.txt": "/chess/static/js/2.7916e133.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bff3f106.js",
     "static/js/2.7916e133.chunk.js",
-    "static/css/main.bcebed1f.chunk.css",
-    "static/js/main.6978ef05.chunk.js"
+    "static/css/main.cf264b3b.chunk.css",
+    "static/js/main.d29e4521.chunk.js"
   ]
 }
